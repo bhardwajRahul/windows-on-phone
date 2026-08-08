@@ -56,7 +56,7 @@
 
 | Feature                         | Notes                                                            | Status         |
 |---------------------------------|------------------------------------------------------------------|----------------|
-| 🪵 USB-Fn (Charging & MTP)   |                                                      | ✅            |
+| 🪵 USB-Fn (Charging & MTP)   | The MTP connection takes 10+ minutes to be recognized by the target machine                                                     | ✅            |
 | 🪵 USB-Host (OTG)              |                   | ✅            |
 | 🔌 Charging (USB)             | If a fast charger is connected, the device will not switch back into OTG mode without a reboot                           | ✅            |
 
